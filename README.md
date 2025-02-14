@@ -1,4 +1,4 @@
-# 🏥 Projeto Web Full-Stack - Gestão de Pacientes
+# 🏥 Projeto Web Full-Stack - Gestão de Pacientes para Psicólogos
 
 Este é um projeto **Full-Stack** desenvolvido com **Django** e **SQLite**, permitindo o gerenciamento de pacientes, consultas e registros médicos.
 
