@@ -103,14 +103,6 @@ urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 - `http://127.0.0.1:8000/pacientes/ID` → Detalhes de um paciente.
 - `http://127.0.0.1:8000/consulta_publica/ID` → Página pública da consulta.
 
-## 🎨 Exemplo de Interface
-
-**Página de Cadastro de Pacientes**
-![Cadastro de Pacientes](https://via.placeholder.com/600x300.png?text=Cadastro+de+Pacientes)
-
-**Registro de Consultas**
-![Registro de Consultas](https://via.placeholder.com/600x300.png?text=Registro+de+Consultas)
-
 ## 📌 Contribuindo
 
 Sinta-se à vontade para contribuir! Clone o projeto, crie uma branch e envie um Pull Request.
@@ -120,5 +112,5 @@ Sinta-se à vontade para contribuir! Clone o projeto, crie uma branch e envie um
 Este projeto é de código aberto e pode ser usado conforme necessário.
 
 ---
-Desenvolvido por **Seu Nome** 🚀
+Desenvolvido por **Lucas Lucena ** 🚀
 
